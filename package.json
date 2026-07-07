@@ -1,0 +1,21 @@
+{
+  "name": "sistema-para-igrejas",
+  "version": "1.0.0",
+  "description": "1. Cadastro de membros controlados e acessivel apenas pela admiistração 2. Informações e conteúdo semanal proposto pelo lider da igreja 3. Divulgações de eventos e programa da igreja para a comunudade fique por dentro do que está rolando",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "leandro queiroz trepador",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.4"
+  }
+}
